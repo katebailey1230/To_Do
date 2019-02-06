@@ -1,3 +1,8 @@
+***Please note that this was created using Ruby on Rails v. 4.2.5 using Ruby v. <3.0.
+
 To-Do List 
 
-An externally usable API for a basic to-do list application. 
+An externally usable API for a basic to-do list application. This API will allow users to modify user accounts and to-do items from the command line.
+
+Using Rails version 4.2.5, you can clone or fork this project to your own repository. From there you can download the To_Do application. Point your terminal to that location, and you should be able to create new users, lists, and items all from the command line.
+
