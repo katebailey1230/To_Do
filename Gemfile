@@ -21,7 +21,7 @@ source 'https://rubygems.org'
  gem 'bootstrap'
  gem 'figaro'
  gem 'faker'
- gem 'active_model_serializers', '~> 0.10.0'
+ gem 'active_model_serializers', '~> 0.10.11'
 
  group :development, :test do
    gem 'byebug'
